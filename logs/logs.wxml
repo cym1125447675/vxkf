@@ -1,0 +1,87 @@
+<!--logs.wxml-->
+<!-- <view class="container log-list">
+  <block wx:for="{{logs}}" wx:for-item="log">
+  <view>cha</view>
+  </block>
+</view> --> 
+<image src="../../img/310147.jpg" class="ge"></image>
+<view class="disc">
+    <view class="dis_p">
+       柴雨铭
+    </view>
+     <view class="dis_ss">
+         <view class="dic">
+         手机
+         </view>
+         <view class="dicc">
+            17610256279
+         </view>
+               <view class="diccc">
+         <button>拨打</button>
+         </view>
+     </view>
+      <view class="dis_ss">
+            <view class="dic">
+            邮箱
+            </view>
+                   <view class="dicc">
+              1125447675@qq.com
+         </view>
+                   <view class="diccc">
+         <button>拨打</button>
+         </view>
+     </view>
+      <view class="dis_ss">
+            <view class="dic">
+            职业
+            </view>
+                   <view class="dicc">
+             大全栈
+         </view>
+                   <view class="diccc">
+         <button>拨打</button>
+         </view>
+     </view>
+</view>
+<view class="wq"></view>
+
+<view class="wqs">
+    <view class="wqs_s">
+    <view class="w_s">
+        <image src="../../img/315059.jpg"></image>
+    </view>
+
+    <view class="w-d">
+    生成海报
+    </view>
+
+    </view>
+
+    <view class="wqs_s">
+    <view class="w_s">
+        <image src="../../img/325022.jpg"></image>
+    </view>
+
+    <view class="w-d">
+    保存电话
+    </view>
+
+    </view>
+
+
+        <view class="wqs_s">
+    <view class="w_s">
+        <image src="../../img/360wallpaper_dt.jpg"></image>
+    </view>
+
+    <view class="w-d">
+    分享好友
+    </view>
+
+    </view>
+
+
+
+</view>
+
+<image src="../../img/324317.jpg" class="ge"></image>

@@ -1,0 +1,103 @@
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.is{
+  color:red;
+}
+.ge{
+  width: 100%;
+  
+}
+.disc{
+  display: block;
+  width: 90%;
+  height: 190px;
+  border:solid #eee 1px;
+  margin: 0 auto;
+  background: #fff;
+        position: absolute;
+        top:190px;
+        left: 5%;
+}
+.dis_p{
+  font-size: 25px;
+  margin-left: 10px;
+}
+.dis_ss{
+  width: 100%;
+  height:40px;
+  /* border:solid yellow 1px; */
+  margin-top: 10px;
+  display: flex;
+}
+.dic{
+  width: 20%;
+  height: 40px;
+  /* border:solid blue  1px; */
+  text-align: center;
+  line-height: 40px;
+}
+.dicc{
+  width: 50%;
+  height: 40px;
+  /* border:solid blue  1px; */
+  text-align: left;
+  line-height: 40px;
+}
+.diccc button{
+  width:70px;
+  height:35px;
+  margin-top: 2px;
+  line-height: 35px;
+}
+.diccc{
+  width: 30%;
+  height: 40px;
+  /* border:solid blue  1px; */
+  text-align: left;
+  line-height: 40px;
+}
+.wq{
+  height: 150px;
+  width: 100px;
+ /* border:solid red 1px; */
+}
+.wqs{
+  width: 100%;
+  height: 130px;
+  /* border:solid red 1px; */
+  display: flex;
+}
+.wqs_s{
+  width: 33.33333%;
+  height: 130px;
+  /* border:solid red 2px; */
+  text-align: center;
+}
+.w_s{
+  width: 70px;
+  height: 70px;
+  /* border:solid blue 1px; */
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.w-d{
+    width: 80px;
+  
+  /* border:solid blue 1px; */
+  margin: 0 auto;
+  margin-top: 15px;
+  font-size: 20px;
+}
+.w_s image{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  
+}
